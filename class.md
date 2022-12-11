@@ -1,3 +1,3 @@
 Prakhar
 India
-Version Control by Meta
+Version Control by Meta Developers
